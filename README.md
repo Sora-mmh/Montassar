@@ -19,7 +19,7 @@
 - 📊 Enthusiastic for data-driven application development
 - 🎓 [École Polytechnique de Tunisie](http://www.ept.rnu.tn/) Engineering Student Graduate
 - 🎓 [Mines de Paris](https://www.minesparis.psl.eu/) Engineering Student Graduate
-- 🎓 [Paris Dauphine](https://dauphine.psl.eu/) x [Ecole Normale Supérieure](https://www.ens.psl.eu/) [IASD](https://www.masteriasd.eu/fr/) MSc Student Graduate
+- 🎓 [Paris Dauphine](https://dauphine.psl.eu/) x [Ecole Normale Supérieure](https://www.ens.psl.eu/) - [IASD MSc](https://www.masteriasd.eu/fr/) Student Graduate
 
 --- 
 
