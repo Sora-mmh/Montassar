@@ -23,27 +23,27 @@
 
 --- 
 
-## Tech Stack
+<!-- ## Tech Stack
 
 
 <div align="center">
 
-|<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="70px">|<img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">
+<!-- |<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="70px">|<img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/1ca8a688-9602-41c6-a6da-9c0b6a28f992" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/a14d14c8-af2d-4e4b-937b-296408717db6" width="70px">
 | :---: | :---: | :---: | :---: |
-|<p align="center"><strong>Python</strong></p>|<p align="center"><strong>Matlab</strong></p>|<p align="center"><strong>Pandas</strong></p>|<p align="center"><strong>Matplotlib</strong></p>|
+|<p align="center"><strong>Python</strong></p>|<p align="center"><strong>Matlab</strong></p>|<p align="center"><strong>Pandas</strong></p>|<p align="center"><strong>Matplotlib</strong></p>| 
 
-|<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/02102ef8-2bd9-47ee-87ba-935869e765c6" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/069fcad9-5397-4aac-b2ca-a962db7462f9" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/e8d6ed80-6d8f-47ed-8d36-29ef79630517" width="70px">|
-| :---: | :---: | :---: | :---: |
-|<p align="center"><strong>TensorFlow</strong></p>|<p align="center"><strong>Sklearn</strong></p>|<p align="center"><strong>MySQL</strong></p>|<p align="center"><strong>Power BI</strong></p>|
+|<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/02102ef8-2bd9-47ee-87ba-935869e765c6" width="70px">|<img src="" width="70px">|<img src="" width="70px">|<img src="" width="70px">
+| :---: | :---: | :---: | :---: | :---: |
+|<p align="center"><strong>Pytorch</strong></p>|<p align="center"><strong>Sklearn</strong></p>|<p align="center"><strong>Seaborn</strong></p>|<p align="center"><strong>Power BI</strong></p>|
 
-|<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="70px">|<img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/ba807579-e8c9-4756-9b4e-c9625b7b686a" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/8b9fb14b-0bb7-4474-b804-a7c45c6bbc6f" width="70px">|
-| :---: | :---: | :---: | :---: |
-|<p align="center"><strong>Docker</strong></p>|<p align="center"><strong>Linux</strong></p>|<p align="center"><strong>HTML</strong></p>|<p align="center"><strong>CSS</strong></p>|
+
+|<img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="70px">|<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="70px">|<img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/assets/123563634/18f1adb7-e094-4ec9-96bc-9b7a65a6984a" width="70px">
+| :---: | :---: | :---: | 
+|<p align="center"><strong>Linux</strong></p>|<p align="center"><strong>Docker</strong></p>|<p align="center"><strong>Git</strong></p>|<p align="center"><strong></strong></p>|
 
 </div>
 
-
----
+-->
 
 ## My Stats 
 
