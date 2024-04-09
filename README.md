@@ -12,7 +12,7 @@
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%189686&lines=Hi%2C+I+am+Montassar+Mhamdi)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%007b80&lines=Hi%2C+I+am+Montassar+Mhamdi)](https://git.io/typing-svg)
 
 - 💻 Deep Learning | Computer Vision Engineer @ IRT Railenium
 - ⚙️ Passionate about AI, DL, CV, NLP, RL
